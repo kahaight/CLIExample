@@ -1,0 +1,16 @@
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\obj\Debug\net5.0\ProjTwo.csproj.AssemblyReference.cache
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\obj\Debug\net5.0\ProjTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\obj\Debug\net5.0\ProjTwo.AssemblyInfoInputs.cache
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\obj\Debug\net5.0\ProjTwo.AssemblyInfo.cs
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\obj\Debug\net5.0\ProjTwo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\bin\Debug\net5.0\ProjTwo.exe
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\bin\Debug\net5.0\ProjTwo.deps.json
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\bin\Debug\net5.0\ProjTwo.runtimeconfig.json
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\bin\Debug\net5.0\ProjTwo.runtimeconfig.dev.json
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\bin\Debug\net5.0\ProjTwo.dll
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\bin\Debug\net5.0\ref\ProjTwo.dll
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\bin\Debug\net5.0\ProjTwo.pdb
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\obj\Debug\net5.0\ProjTwo.dll
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\obj\Debug\net5.0\ref\ProjTwo.dll
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\obj\Debug\net5.0\ProjTwo.pdb
+C:\ElevenFiftyV2\LearningAssistant\CLIExample\ProjTwo\obj\Debug\net5.0\ProjTwo.genruntimeconfig.cache
